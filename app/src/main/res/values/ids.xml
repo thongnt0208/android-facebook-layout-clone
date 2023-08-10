@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView4" type="id" />
+    <item name="editTextText" type="id" />
+    <item name="editTextText2" type="id" />
+    <item name="button" type="id" />
+    <item name="floatingActionButton" type="id" />
+</resources>
